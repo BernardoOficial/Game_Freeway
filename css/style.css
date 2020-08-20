@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.placar {
+    position: absolute;
+    top: 2%;
+    left: 25%;
+    font: 18px Archivo;
+    color: #00000099;
+}
